@@ -1,14 +1,4 @@
 ---
-# yaml-language-server: $schema=schemas/page.schema.json
-Object type:
-    - Page
-Backlinks:
-    - Cycle 1 Networking and network security
-Creation date: "2026-10-22T18:34:56Z"
-Created by:
-    - n3o
-id: bafyreicpplhhpvz5exwduvlcamucjga6zptocdjzbnsokjrx2dbgjvzazi
----
 # day1-tcp-conversation.md   
 # Lab Write-up: Day 1 TCP Session Dissection   
 **Target File:** day1-handshake-filtered.pcapng   
